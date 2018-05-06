@@ -1,2 +1,2 @@
-ConvertedJSFiles/**
-node_modules/**
+ConvertedJSFiles/*
+node_modules/*
